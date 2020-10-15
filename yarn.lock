@@ -2633,6 +2633,9 @@ browserslist@4.10.0, browserslist@^4.0.0, browserslist@^4.6.2, browserslist@^4.6
     node-releases "^1.1.52"
     pkg-up "^3.1.0"
 
+bryntum-schedulerpro@/home/kirill/bright/bryntum-schedulerpro-trial/schedulerpro-4.0.0-rc-2-trial/build:
+  version "4.0.0-rc-2"
+
 bser@2.1.1:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/bser/-/bser-2.1.1.tgz#e6787da20ece9d07998533cfd9de6f5c38f4bc05"
