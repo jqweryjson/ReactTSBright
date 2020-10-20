@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ReactTSBright/static/css/main.a28039cb.chunk.css",
+    "main.js": "/ReactTSBright/static/js/main.f6f6677e.chunk.js",
+    "main.js.map": "/ReactTSBright/static/js/main.f6f6677e.chunk.js.map",
+    "runtime-main.js": "/ReactTSBright/static/js/runtime-main.919c94b3.js",
+    "runtime-main.js.map": "/ReactTSBright/static/js/runtime-main.919c94b3.js.map",
+    "static/css/2.e688bb3a.chunk.css": "/ReactTSBright/static/css/2.e688bb3a.chunk.css",
+    "static/js/2.b6b85b4f.chunk.js": "/ReactTSBright/static/js/2.b6b85b4f.chunk.js",
+    "static/js/2.b6b85b4f.chunk.js.map": "/ReactTSBright/static/js/2.b6b85b4f.chunk.js.map",
+    "index.html": "/ReactTSBright/index.html",
+    "precache-manifest.b11e512157cb5f8eaafbed9cea8fc459.js": "/ReactTSBright/precache-manifest.b11e512157cb5f8eaafbed9cea8fc459.js",
+    "service-worker.js": "/ReactTSBright/service-worker.js",
+    "static/css/2.e688bb3a.chunk.css.map": "/ReactTSBright/static/css/2.e688bb3a.chunk.css.map",
+    "static/css/main.a28039cb.chunk.css.map": "/ReactTSBright/static/css/main.a28039cb.chunk.css.map",
+    "static/js/2.b6b85b4f.chunk.js.LICENSE.txt": "/ReactTSBright/static/js/2.b6b85b4f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ReactTSBright/static/media/fa-solid-900.ec763292.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.919c94b3.js",
+    "static/css/2.e688bb3a.chunk.css",
+    "static/js/2.b6b85b4f.chunk.js",
+    "static/css/main.a28039cb.chunk.css",
+    "static/js/main.f6f6677e.chunk.js"
+  ]
+}
