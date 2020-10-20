@@ -2,6 +2,7 @@
   "name": "bright",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://jqweryjson.github.io/ReactTSBright",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -13,6 +14,7 @@
     "antd": "^4.7.0",
     "bryntum-react-shared": "/home/kirill/bright/bryntum-schedulerpro-trial/schedulerpro-4.0.0-rc-2-trial/examples-scheduler/react/_shared/build",
     "bryntum-schedulerpro": "/home/kirill/bright/bryntum-schedulerpro-trial/schedulerpro-4.0.0-rc-2-trial/build",
+    "gh-pages": "^3.1.0",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-scripts": "3.4.3",
@@ -22,7 +24,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
