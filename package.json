@@ -10,6 +10,7 @@
     "@types/node": "^14.11.10",
     "@types/react": "^16.9.53",
     "@types/react-dom": "^16.9.8",
+    "antd": "^4.7.0",
     "bryntum-react-shared": "/home/kirill/bright/bryntum-schedulerpro-trial/schedulerpro-4.0.0-rc-2-trial/examples-scheduler/react/_shared/build",
     "bryntum-schedulerpro": "/home/kirill/bright/bryntum-schedulerpro-trial/schedulerpro-4.0.0-rc-2-trial/build",
     "react": "^16.14.0",

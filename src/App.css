@@ -1,1 +1,18 @@
 @import "~bryntum-schedulerpro/schedulerpro.material.min.css";
+@import '~antd/dist/antd.css';
+
+.header {
+  display: flex;
+  color: #fff;
+  padding: 2em 0;
+  transition: background-color .5s, padding .5s, font-size .1s;
+  background: linear-gradient(to bottom,#1e88e5, #235fb8);
+  flex: 0 0 auto;
+}
+
+.header .ant-page-header-heading-title {
+  margin-left: .5rem;
+  padding: 0.2rem 0 0.2rem 2.1rem;
+  font-size: 1.8em;
+  color: white;
+}
